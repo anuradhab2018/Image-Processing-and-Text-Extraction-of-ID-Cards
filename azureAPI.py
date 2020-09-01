@@ -3,9 +3,9 @@ import json
 import requests
 
 
-API_KEY = '078706da7479441fb6337355c3b91741'
-ENDPOINT = 'https://ar2020.cognitiveservices.azure.com/vision/v1.0/ocr'
-DIR = 'C://Users//DELL//Desktop//Maveai//NewImages/'
+API_KEY = '###################################33'
+ENDPOINT = '#####################################3'
+DIR = 'C://Users//DELL//Desktop//NewImages/'
 
 def handler():
 
