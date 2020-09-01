@@ -6,9 +6,9 @@ import requests
 import mysql.connector
 from mysql.connector import errorcode
 
-API_KEY = '078706da7479441fb6337355c3b91741'
-ENDPOINT = 'https://ar2020.cognitiveservices.azure.com/vision/v1.0/ocr'
-DIR = 'C://Users//DELL//Desktop//Maveai//NewImages/'
+API_KEY = '#######################################'
+ENDPOINT = '##############################################'
+DIR = 'C://Users//DELL//Desktop//NewImages/'
 
 #-------------------------------------------------------------------
 # Obtain connection string information from the portal
