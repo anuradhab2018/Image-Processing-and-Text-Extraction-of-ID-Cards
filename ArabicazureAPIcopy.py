@@ -8,7 +8,7 @@ import pymongo
 
 
 API_KEY = '078706da7479441fb6337355c3b91741'
-ENDPOINT = 'https://ar2020.cognitiveservices.azure.com/vision/v1.0/ocr'
+ENDPOINT = '$$$$$$$$$$$$$$$$$$$$$$$$$$$/vision/v1.0/ocr'
 DIR = 'C://Users//DELL//Desktop//Maveai//Images//Residentcard//Preprocessed//combined'
 output_dir = 'C://Users//DELL//Desktop//Maveai//Images//Residentcard//outputresident'
 #Mongodb
